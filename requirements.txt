@@ -1,0 +1,5 @@
+SQLAlchemy==1.4.40
+psycopg2-binary==2.9.3
+testcontainers==3.6.1
+Faker==14.1.0
+pytest==7.1.2
