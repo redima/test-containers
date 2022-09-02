@@ -9,7 +9,8 @@
 #        creates a new table and populates it with the test data
 #
 # Next, we run a couple of tests:
-#
+#   test_db_count(): verify the number of rows in the database is the same as the generated list
+#   test_db_max_name(): verify the longes name in the database is the same as in the source data
 
 from typing import Tuple
 import pytest
